@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/morpheus65535/bazarr/archive/v0.8.4.tar.gz
+SOURCE_SUM=346bcc00328561c8b714c80cbf3c41ee7f213bae925c7c28f2ea851538c007ae
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
